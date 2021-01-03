@@ -1,2 +1,1 @@
-# Tindog
-Example Start up Website using Bootstrap 4
+TinDog Starting Files
